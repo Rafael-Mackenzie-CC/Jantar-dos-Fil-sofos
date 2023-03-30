@@ -10,4 +10,6 @@ Se um filósofo não consegue pegar ambos os garfos, ele libera o garfo que pego
 
 
 Referência:
-- https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/
+- https://medium.com/swlh/the-dining-philosophers-problem-solution-in-c-90e2593f64e8#:~:text=The%20dining%20philosopher's%20problem%20is,sharing%20problem%20in%20operating%20systems.&text=Let%20us%20first%20understand%20what,access%20to%20a%20shared%20resource
+
+- https://www.thecrazyprogrammer.com/2017/06/dining-philosophers-problem-c-c.html
